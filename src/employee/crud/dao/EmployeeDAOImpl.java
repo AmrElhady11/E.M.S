@@ -145,10 +145,10 @@ public class EmployeeDAOImpl implements EmployeeDAO
 		EmployeeDAOImpl employeeDAOImpl = new EmployeeDAOImpl();
 		Employee employee = new Employee();
 		//employee.setId(10);
-		employee.setName("Jennifer1");
-		employee.setEmail("jennifer@gamil.com");
-		employee.setPhone("00335446666");
-		employee.setAddress("Spain");
+		employee.setName("Amr");
+		employee.setEmail("Amrelhady@gamil.com");
+		employee.setPhone("0123456789");
+		employee.setAddress("Egypt");
 		//boolean result = employeeDAOImpl.addEmployee(employee);
 		//employeeDAOImpl.updateEmployee(employee);
 		//Employee employee2 = employeeDAOImpl.getEmployee(10);
